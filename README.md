@@ -8,7 +8,7 @@
  * vRetain 1.0
 
  >It has provided the contact details for Vecta Corporation.
- >It also includes introduction of Management team of company.
+ >It also includes introduction of Management team of company.  
  For more information for out website visit [Vecta Corporation](https://acw-group.com.hk/acw_distribution/events/VectaCorp/aboutus.htm)
 
 
